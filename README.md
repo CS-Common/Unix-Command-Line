@@ -9,8 +9,8 @@
 ### Managing files:
 
 1. mkdir - make directory (folder)
-1. mv - mv and/or rename a file or directory
-1. touch - make an empty file
+1. mv - move and/or rename a file or directory
+1. touch - create an empty file
 1. cp - copy a file
 1. rm - remove (delete) a file
 1. rmdir - remove an empty directory
