@@ -1,6 +1,6 @@
 ## Common Unix (and macOS and Linux) Commands
 
-### Navigating the file system:
+### Exploring the file system:
 
 1. ls - list the contents of the current directory (folder)
 1. cd - change directory
