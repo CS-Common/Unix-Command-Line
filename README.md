@@ -1,4 +1,4 @@
-## Common Unix (and Linux and macOS) Commands
+## Common Unix (and macOS and Linux) Commands
 
 ### Navigating the file system:
 
